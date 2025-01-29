@@ -1,4 +1,4 @@
-# Customer Feedback Intelligencesystem
+# Customer Feedback Intelligence System
 In this project, we are going to analyze customer feedback through Airflow pipelineing.
 I’ll guide you step-by-step to set up and execute an ETL pipeline with Apache Airflow as if you’re a beginner. We’ll go from scratch, including installing Airflow, creating ETL pipeline, running it, and visualizing the results. Let's dive in!
 
