@@ -1,0 +1,40 @@
+Text,Sentiment,Source,DateTime,UserID,Location,ConfidenceScore,PredictedSentiment
+"Great quality product, very satisfied!",Positive,Website,2023-10-01T10:15:30Z,user_001,"New York, NY",0.95,Positive
+"Shipping took too long, but the product is fine.",Neutral,App,2023-10-02T11:25:45Z,user_002,"Los Angeles, CA",0.85,Neutral
+I had a terrible experience with customer service.,Negative,Website,2023-10-03T09:35:12Z,user_003,"Chicago, IL",0.9,Negative
+The checkout process was very smooth.,Positive,App,2023-10-04T14:46:50Z,user_004,"Houston, TX",0.92,Neutral
+"Not exactly what I expected, but it’s okay.",Neutral,Website,2023-10-05T08:50:29Z,user_005,"Phoenix, AZ",0.75,Neutral
+Product was defective upon arrival.,Negative,App,2023-10-06T17:12:33Z,user_006,"Philadelphia, PA",0.88,Neutral
+Love the variety of products available!,Positive,Website,2023-10-07T16:45:12Z,user_007,"San Antonio, TX",0.93,Positive
+"The coupons are great, will shop again!",Positive,App,2023-10-08T15:30:22Z,user_008,"San Diego, CA",0.94,Positive
+"Order was incorrect, very disappointing.",Negative,Website,2023-10-09T10:25:44Z,user_009,"Dallas, TX",0.91,Negative
+Easy to navigate and find what I need!,Positive,App,2023-10-10T12:01:15Z,user_010,"San Jose, CA",0.9,Neutral
+Had issues with the payment process.,Negative,Website,2023-10-11T22:10:33Z,user_011,"Austin, TX",0.87,Neutral
+"Delivery was fast, highly recommended!",Positive,App,2023-10-12T14:50:23Z,user_012,"Jacksonville, FL",0.96,Neutral
+"The sizing was off, so I returned the item.",Neutral,Website,2023-10-13T18:35:09Z,user_013,"Columbus, OH",0.78,Neutral
+Excellent shopping experience overall!,Positive,App,2023-10-14T11:15:05Z,user_014,"Charlotte, NC",0.94,Positive
+The mobile app is not user-friendly.,Negative,App,2023-10-15T13:29:40Z,user_015,"San Francisco, CA",0.89,Neutral
+I appreciate the fast customer support!,Positive,Website,2023-10-16T09:45:22Z,user_016,"Indianapolis, IN",0.92,Neutral
+Had to wait too long for my refund.,Negative,App,2023-10-17T16:32:50Z,user_017,"Seattle, WA",0.85,Neutral
+The product packaging was impressive!,Positive,Website,2023-10-18T19:18:00Z,user_018,"Denver, CO",0.94,Neutral
+I wish there were more payment options.,Neutral,App,2023-10-19T12:20:12Z,user_019,"Washington, DC",0.76,Neutral
+Definitely my go-to store for shopping!,Positive,Website,2023-10-20T15:50:36Z,user_020,"Boston, MA",0.91,Neutral
+Received an item that was not as described.,Negative,App,2023-10-21T10:05:17Z,user_021,"Nashville, TN",0.9,Neutral
+Really appreciate the returns policy!,Positive,Website,2023-10-22T11:40:45Z,user_022,"Baltimore, MD",0.91,Neutral
+"Price was higher than expected, but still a good purchase.",Neutral,App,2023-10-23T08:12:30Z,user_023,"El Paso, TX",0.8,Positive
+The flash sales are fantastic!,Positive,Website,2023-10-24T17:29:00Z,user_024,"San Antonio, TX",0.92,Positive
+I couldn't track my order easily.,Negative,App,2023-10-25T19:30:15Z,user_025,"Virginia Beach, VA",0.86,Neutral
+Customer service was very helpful with my issue.,Positive,Website,2023-10-26T09:15:54Z,user_026,"Atlanta, GA",0.95,Neutral
+"Website crashed during checkout, very frustrating.",Negative,App,2023-10-27T14:45:00Z,user_027,"Omaha, NE",0.88,Neutral
+The discounts made me shop more than planned!,Positive,Website,2023-10-28T16:20:44Z,user_028,"Portland, OR",0.93,Neutral
+Had to contact support multiple times.,Negative,App,2023-10-29T11:50:11Z,user_029,"Kansas City, MO",0.89,Neutral
+Best online shopping experience I've had!,Positive,Website,2023-10-30T12:33:29Z,user_030,"Oklahoma City, OK",0.97,Neutral
+Really appreciate the returns policy!,Positive,Website,2023-10-22T11:40:45Z,user_022,"Baltimore, MD",0.91,Neutral
+"Price was higher than expected, but still a good purchase.",Neutral,App,2023-10-23T08:12:30Z,user_023,"El Paso, TX",0.8,Positive
+The flash sales are fantastic!,Negative,Website,2023-10-24T17:29:00Z,user_024,"San Antonio, TX",0.92,Positive
+I couldn't track my order easily.,Negative,App,2023-10-25T19:30:15Z,user_025,"Virginia Beach, VA",0.86,Neutral
+Customer service was very helpful with my issue.,Negative,Website,2023-10-26T09:15:54Z,user_026,"Atlanta, GA",0.95,Neutral
+"Website crashed during checkout, very frustrating.",Negative,App,2023-10-27T14:45:00Z,user_027,"Omaha, NE",0.88,Neutral
+The discounts made me shop more than planned!,Negative,Website,2023-10-28T16:20:44Z,user_028,"Portland, OR",0.93,Neutral
+Had to contact support multiple times.,Negative,App,2023-10-29T11:50:11Z,user_029,"Kansas City, MO",0.89,Neutral
+Best online shopping experience I've had!,Negative,Website,2023-10-30T12:33:29Z,user_030,"Oklahoma City, OK",0.97,Neutral
