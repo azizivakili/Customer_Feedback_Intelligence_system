@@ -96,6 +96,6 @@ pip install streamlit
 
 In the dashboard/ folder, create a file **app.py** with the following:
 
-[app.py]((https://github.com/azizivakili/Customer_Feedback_Intelligence_system/blob/main/dashboard/app.py)
+[app.py](https://github.com/azizivakili/Customer_Feedback_Intelligence_system/blob/main/dashboard/app.py)
 
 
