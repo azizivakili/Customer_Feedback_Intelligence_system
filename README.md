@@ -54,7 +54,7 @@ Access Airflow UI:
 ## Step 2: Set Up the Project Structure
 
 Let’s organize the project to keep it clean:
-
+```
 project_root/
 ├── airflow_home/                     # Airflow directory
 │   ├── dags/                         # DAG files for workflows
@@ -64,14 +64,15 @@ project_root/
 │       │   └── sentiment-analysis.csv
 │       └── processed/                # Processed/Transformed data
 
+```
 
 ## Step 3: Write the ETL Pipeline (Airflow DAG)
 
-1. Create the DAG File:
+### 1. Create the DAG File:
 
-    In the airflow_home/dags/ directory, create a file called feedback_etl_dag.py.
+In the **airflow_home/dags/** directory, create a file called    **feedback_etl_dag.py**
 
-2. Define the DAG:
+### 2. Define the DAG:
 
     Add the following Python script to define the pipeline:
 
