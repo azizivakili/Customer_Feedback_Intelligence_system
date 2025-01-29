@@ -65,14 +65,13 @@ project_root/
 │       └── processed/                # Processed/Transformed data
 
 ```
-
 ## Step 3: Write the ETL Pipeline (Airflow DAG)
-
 ### 1. Create the DAG File:
-
 In the **airflow_home/dags/** directory, create a file called    **feedback_etl_dag.py**
-
 ### 2. Define the DAG:
+Add the following Python script to define the pipeline :
 
-    Add the following Python script to define the pipeline:
+**Note:** from the following link you can reach to code 
+
+[dags/feedback_etl_dag.py](https://github.com/azizivakili/Customer_Feedback_Intelligence_system/blob/main/dags/feedback_etl_dag.py)
 
