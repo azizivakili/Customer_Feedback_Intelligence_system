@@ -105,5 +105,6 @@ streamlit run dashboard/app.py
 
 ## step 6: See the final result 
 
-[Visualization of the project](https://github.com/azizivakili/Customer_Feedback_Intelligence_system/blob/main/Images)
+[Airflow Pipeline](https://github.com/azizivakili/Customer_Feedback_Intelligence_system/blob/main/Images/Airflow-Pipeline.png)
+[Visualization of Dashboard](https://github.com/azizivakili/Customer_Feedback_Intelligence_system/blob/main/Images/Dashboard.png)
 
