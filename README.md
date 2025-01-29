@@ -73,7 +73,7 @@ Add the following Python script to define the pipeline :
 
 **Note:** from the following link you can reach to code 
 
-[dags/feedback_etl_dag.py](https://github.com/azizivakili/Customer_Feedback_Intelligence_system/blob/main/dags/feedback_etl_dag.py)
+[feedback_etl_dag.py](https://github.com/azizivakili/Customer_Feedback_Intelligence_system/blob/main/dags/feedback_etl_dag.py)
 
 
 
@@ -98,4 +98,7 @@ In the dashboard/ folder, create a file **app.py** with the following:
 
 [app.py](https://github.com/azizivakili/Customer_Feedback_Intelligence_system/blob/main/dashboard/app.py)
 
-
+3. Run the Dashboard:
+```
+streamlit run dashboard/app.py
+```
