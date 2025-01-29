@@ -75,3 +75,25 @@ Add the following Python script to define the pipeline :
 
 [dags/feedback_etl_dag.py](https://github.com/azizivakili/Customer_Feedback_Intelligence_system/blob/main/dags/feedback_etl_dag.py)
 
+
+
+### Step 4: Test the ETL Pipeline
+
+Restart the Airflow scheduler and webserver:
+```
+airflow scheduler
+airflow webserver --port 8080
+```
+Log in to the Airflow UI at http://localhost:8080.
+
+### Step 5: Create a Dashboard to Visualize Data
+
+1. Install Streamlit:
+```
+pip install streamlit
+```
+2. Create the Dashboard:
+
+In the dashboard/ folder, create a file **app.py** with the following:
+
+
